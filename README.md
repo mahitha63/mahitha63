@@ -53,7 +53,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mahitha63&show_icons=true&theme=radical" height="160" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahitha63&theme=radical" height="160" alt="streak graph"  />
 </div>
 
 <div align="left">
