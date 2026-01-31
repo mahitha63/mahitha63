@@ -1,8 +1,12 @@
-<!-- Banner/Header -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahitha%20👩‍💻&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mahitha%20Bandaru%20👩‍💻&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=gradient&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+AI%2FML+Enthusiast;Final+Year+CS+Student+from+India;Building+Meaningful+Software+Every+Day" />
+</p>
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
