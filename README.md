@@ -66,7 +66,7 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahitha63&theme=radical" height="250" alt="activity graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahitha63&theme=radical" alt="activity graph"  />
 </div>
 
 ###
