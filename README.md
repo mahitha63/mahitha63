@@ -56,6 +56,8 @@
 <h2 align="left">GitHub Stats</h2>
 
 ###
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahitha63&theme=github-radical)
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mahitha63&show_icons=true&theme=radical" height="160" alt="stats graph"  />
@@ -65,9 +67,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahitha63&layout=compact&theme=radical" height="160" alt="languages graph"  />
 </div>
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahitha63&theme=radical" alt="activity graph"  />
-</div>
 
 ###
 
